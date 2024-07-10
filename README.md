@@ -35,18 +35,15 @@ This repository contains the source code for an API backend built with Express.j
    ```bash
    npx nodemon index.js
    
-Running the Project
+# Running the Project
 After completing the steps above, your server should be running at http://localhost:3000.
 
 API Documentation: Make sure to document your API endpoints. You can use tools like Swagger or Postman for this purpose.
 
-Contributing
+# Contributing
 If you would like to contribute to this project, please open an issue or submit a pull request.
 
-Additional Information
+# Additional Information
 Prisma Studio: You can use Prisma Studio to explore your database:
    ```bash
    npx prisma studio
-
-
-
