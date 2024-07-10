@@ -38,13 +38,15 @@ This repository contains the source code for an API backend built with Express.j
 Running the Project
 After completing the steps above, your server should be running at http://localhost:3000.
 
-Additional Information
-Prisma Studio: You can use Prisma Studio to explore your database:
-  ```bash
-  npx prisma studio
-
 API Documentation: Make sure to document your API endpoints. You can use tools like Swagger or Postman for this purpose.
 
 Contributing
 If you would like to contribute to this project, please open an issue or submit a pull request.
+
+Additional Information
+Prisma Studio: You can use Prisma Studio to explore your database:
+   ```bash
+   npx prisma studio
+
+
 
