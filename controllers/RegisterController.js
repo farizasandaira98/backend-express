@@ -14,7 +14,7 @@ const register = async (req, res) => {
         return res.status(422).json({
             success: false,
             message: "Validation Error",
-            errors: errors.array(),
+            errors: error.array(),
         });
     }
 
